@@ -11,10 +11,11 @@
 
 ---
 
-## デモ動画
+## デモ画像
 
-![VR ライブ空間](./docs/vr_concert.png)  
-![スマホ振動マッピング](./docs/vibration_demo.gif)
+![スタート画面](./docs/start.png)  
+![会場1](./docs/venue1.png)
+![会場2](./docs/venue2.png)
 
 ---
 
