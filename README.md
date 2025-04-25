@@ -60,9 +60,19 @@ VibraSymphonyの内部システムおよびプログラム設計を紹介する�
   - **アニメーション**：モーションキャプチャーデータ（BVH/FBX）  
   - **移動制御**：
     - Unity Character Controller による歩行シミュレーション  
-  - **音声解析**：Unity C# `OnAudioFilterRead` ＋ FFT 分析   
-  - **MP3 送信**：TCP/IP
+  - **音声解析**：Unity C# `OnAudioFilterRead` ＋ FFT 分析
+   - **MP3 送信**：TCP/IP
   - **振動データ送信**：UDP/IP
   - **その他通信**：TCP/IP 
   - **振動**：Android `Vibrator` API  
 ---
+
+## ライセンスおよびクレジット
+ 
+本プロジェクトでは、ユニティ・テクノロジーズ・ジャパンが提供する「Unity-Chan」キャラクターおよび関連アセットを使用しています。  
+使用にあたっては、以下のライセンスに従っています：  
+🔗 [Unity-Chan ライセンス（日本語）](https://unity-chan.com/contents/license_jp/)  
+🔗 [Unity-Chan License (English)](https://unity-chan.com/contents/license_en/)
+
+© 2025 小林立樹  
+© Unity Technologies Japan / Unity-Chan Project. All rights reserved.
