@@ -1,8 +1,22 @@
 # Vibra Symphony
 
-![Unity](https://img.shields.io/badge/Unity-2021.3-blue)
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
 
 ---
+
+## プロジェクトの内部システムについて
+
+VibraSymphonyの内部システムおよびプログラム設計を紹介する目的で、  
+非商用かつ簡易的なバージョンを別リポジトリにて公開しています：
+
+ **[VibraSymphony_Core リポジトリ](https://github.com/rickyKunn/VibraSymphony_Core/)**  
+ (プログラムのみ／簡易アセット使用）
+
+このバージョンには以下が含まれています：
+- VibraSymphonyのコアロジック、システム実装
+- オリジナルの3DモデルやVFX、音声等は含まれていません
+- ポートフォリオ目的での閲覧専用です
+
 
 ## プロジェクト概要
 
