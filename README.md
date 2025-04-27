@@ -97,6 +97,5 @@ VibraSymphonyの内部システムおよびプログラム設計を紹介する�
 使用にあたっては、以下のライセンスに従っています：  
 🔗 [Unity-Chan ライセンス（日本語）](https://unity-chan.com/contents/license_jp/)  
 🔗 [Unity-Chan License (English)](https://unity-chan.com/contents/license_en/)
-
-© 2025 小林立樹  
+ 
 © Unity Technologies Japan / Unity-Chan Project. All rights reserved.
