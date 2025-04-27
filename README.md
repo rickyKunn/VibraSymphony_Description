@@ -7,15 +7,39 @@
 ## プロジェクトの内部システムについて
 
 VibraSymphonyの内部システムおよびプログラム設計を紹介する目的で、  
-非商用かつ簡易的なバージョンを別リポジトリにて公開しています：
+非商用かつ簡易的なバージョンを別リポジトリにて公開しています。
 
- **[VibraSymphony_Core リポジトリ](https://github.com/rickyKunn/VibraSymphony_Core/)**  
- (プログラムのみ／簡易アセット使用）
+---
+
+### 🎵 VibraSymphony_Core
+
+**[VibraSymphony_Core リポジトリ](https://github.com/rickyKunn/VibraSymphony_Core/)**  
+（PC／Oculus Quest用アプリ）
 
 このバージョンには以下が含まれています：
 - VibraSymphonyのコアロジック、システム実装
 - オリジナルの3DモデルやVFX、音声等は含まれていません
-- ポートフォリオ目的での閲覧専用です
+- ダウンロードおよび実行による動作確認が可能です（Unity 6000.0.47f1推奨）
+- Oculus Questにビルドしていただくことにより、VRでの実機動作が可能です。
+---
+
+### 📱 VibraSymphony_MobileAgent
+
+**[VibraSymphony_MobileAgent リポジトリ](https://github.com/rickyKunn/VibraSymphony_MobileAgent/)**  
+（Android端末用クライアントアプリ）
+
+このバージョンには以下が含まれています：
+- AndroidデバイスからMP3ファイルをVibraSymphony_Coreへ送信する機能
+- Core側の音楽解析結果を受信し、振動制御を行うシステム
+- モバイル環境でのインタラクティブな音楽体験を実現するコンポーネント
+- ダウンロードしたソースコードからビルド、またはビルド済みAPKを使用して実機動作が可能です
+
+---
+
+各リポジトリは、 **互いに連携して使用することを前提としています。**
+
+なお、使用・改変・再配布には制限がある場合がありますので、各リポジトリのライセンス記載事項をご確認ください。
+
 
 
 ## プロジェクト概要
