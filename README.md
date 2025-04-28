@@ -21,6 +21,7 @@ VibraSymphonyの内部システムおよびプログラム設計を紹介する�
 - オリジナルの3DモデルやVFX、音声等は含まれていません
 - ダウンロードおよび実行による動作確認が可能です（Unity 6000.0.47f1推奨）
 - Oculus Questにビルドしていただくことにより、VRでの実機動作が可能です。
+- 実行ファイル(.exe,.app)へのビルドは対応していないので、OculusかEditorでの実行をお願いします。
 ---
 
 ### 📱 VibraSymphony_MobileAgent
